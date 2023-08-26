@@ -1,7 +1,8 @@
 # SpikeborFreebies
 Free Unity Editor Tools
 
-Hello, thank you for downloading Spikebor Freebies.
+Hello, This tool should be freely used and published on the Unity Asset Store,
+but the queue is too bad (2424) so I decide to publish a github for it.
 This is a collection of useful tools that I will use in my Unity Tutorial series, so
 it's a good idea to share it freely for my viewers to follow along!
 
